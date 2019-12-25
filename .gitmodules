@@ -1,0 +1,9 @@
+[submodule "python_GCode"]
+	path = python_GCode
+	url = git@github.com:jed-frey/python_GCode.git
+[submodule "python_Grbl"]
+	path = python_Grbl
+	url = git@github.com:jed-frey/python_Grbl.git
+[submodule "grbl"]
+	path = grbl
+	url = git@github.com:jed-frey/grbl.git
